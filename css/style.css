@@ -1,0 +1,61 @@
+﻿@charset "UTF-8";
+
+img {
+    width: 100%;
+}
+
+body {
+    padding-bottom: 10px;
+    background: url(../images/bg.jpg) no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.ban {
+    margin: 72px auto 0;
+}
+
+.sands, .app {
+    margin: 20px auto 0;
+}
+
+.sands {
+    max-width: 80%;
+    margin: 50px auto 44px;
+}
+
+.app {
+    max-width: 60%;
+}
+
+.section1, .section2 {
+    width: 100%;
+}
+
+.section1 {
+    margin: 20px auto 0;
+}
+
+.section2 {
+    margin: 17px auto 0;
+}
+
+.livelyhelp, .line {
+    max-width: 80%;
+    display: block;
+    position: fixed;
+    right: 0px;
+}
+
+.livelyhelp {
+    top: 350px;
+}
+
+.line {
+    top: 510px;
+}
+
+.footer {
+    margin-top: 47px;
+}
