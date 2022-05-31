@@ -1,0 +1,59 @@
+﻿@charset "UTF-8";
+
+img {
+    width: 100%;
+}
+
+body {
+    background: url(../images/bg.jpg) no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.ban {
+    max-width: 1864px;
+}
+
+.sands, .app {
+    width: 100%;
+    margin: 20px auto 0;
+}
+
+.sands {
+    max-width: 549px;
+}
+
+.app {
+    max-width: 713px;
+}
+
+.section1, .section2 {
+    width: 100%;
+}
+
+.section1 {
+    max-width: 1861px;
+    margin: 20px auto 0;
+}
+
+.section2 {
+    max-width: 1662px;
+    margin: 17px auto 0;
+}
+
+.right {
+    display: block;
+    position: fixed;
+    right: 0px;
+    bottom: 100px;
+    max-width: 10%;
+}
+
+.livelyhelp, .line {
+    display: block;
+}
+
+.footer {
+    margin: 44px 0;
+}
